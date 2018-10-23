@@ -1,5 +1,7 @@
 # Invoice
 
+## Breadboarding
+Resoultion: Kristian referred me to Vlad/Kelly for resolving the breadboarding problem.
 
 ## RPi
 
